@@ -1,0 +1,5 @@
+{
+  "name": "Gestione Ordini",
+  "description": "Un'applicazione per aggiungere, salvare, cercare, modificare, eliminare e stampare ordini. I dati sono salvati localmente nel browser.",
+  "requestFramePermissions": []
+}
